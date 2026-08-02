@@ -4,7 +4,7 @@
   "avatar": "https://avatars.githubusercontent.com/u/152022021?v=4",
   "htmlUrl": "https://github.com/yuqiuwuu",
   "metrics": {
-    "commits": 84,
+    "commits": 85,
     "prs": 0,
     "issues": 0,
     "reviews": 0,
@@ -14,7 +14,7 @@
   "langs": [
     [
       "JavaScript",
-      5163
+      36202
     ],
     [
       "HTML",
@@ -336,7 +336,7 @@
       {
         "date": "2025-10-03",
         "count": 2,
-        "level": 4
+        "level": 3
       },
       {
         "date": "2025-10-04",
@@ -1850,13 +1850,13 @@
       },
       {
         "date": "2026-08-02",
-        "count": 2,
+        "count": 3,
         "level": 4
       }
     ],
-    "total": 87
+    "total": 88
   },
   "season": "summer",
   "weather": "clear",
-  "generatedAt": "2026-08-02T07:00:10.417Z"
+  "generatedAt": "2026-08-02T13:21:10.801Z"
 }
