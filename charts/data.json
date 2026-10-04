@@ -4,17 +4,17 @@
   "avatar": "https://avatars.githubusercontent.com/u/152022021?v=4",
   "htmlUrl": "https://github.com/yuqiuwuu",
   "metrics": {
-    "commits": 85,
+    "commits": 84,
     "prs": 0,
     "issues": 0,
     "reviews": 0,
     "involved": 0,
-    "repos": 3
+    "repos": 2
   },
   "langs": [
     [
       "JavaScript",
-      36202
+      35830
     ],
     [
       "HTML",
@@ -28,41 +28,6 @@
   "orgs": [],
   "contrib": {
     "days": [
-      {
-        "date": "2025-09-28",
-        "count": 0,
-        "level": 0
-      },
-      {
-        "date": "2025-09-29",
-        "count": 0,
-        "level": 0
-      },
-      {
-        "date": "2025-09-30",
-        "count": 0,
-        "level": 0
-      },
-      {
-        "date": "2025-10-01",
-        "count": 0,
-        "level": 0
-      },
-      {
-        "date": "2025-10-02",
-        "count": 0,
-        "level": 0
-      },
-      {
-        "date": "2025-10-03",
-        "count": 2,
-        "level": 3
-      },
-      {
-        "date": "2025-10-04",
-        "count": 0,
-        "level": 0
-      },
       {
         "date": "2025-10-05",
         "count": 0,
@@ -1882,11 +1847,16 @@
         "date": "2026-10-03",
         "count": 0,
         "level": 0
+      },
+      {
+        "date": "2026-10-04",
+        "count": 0,
+        "level": 0
       }
     ],
     "total": 88
   },
   "season": "autumn",
   "weather": "clear",
-  "generatedAt": "2026-10-03T15:49:10.942Z"
+  "generatedAt": "2026-10-04T04:38:12.125Z"
 }
